@@ -1,5 +1,5 @@
 # 概要
-第三世代用テキストエディタ、PokeTextEditor略してPTEの内部ソースです
+第三世代用テキストエディタ、PokeTextEditor略してPTEの内部ソースです  
 WpfApplication1ディレクトリに各種csファイルが格納されています  
 
 # 対応範囲
